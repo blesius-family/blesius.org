@@ -1,4 +1,4 @@
-<h1>Dr. med. Cornelius Klaus Blesius</h1>
+<h1 align="center">Dr. med. Cornelius Klaus Blesius</h1>
 
 <h2 align="center">&#10038; 29 November 1937 &ndash; &#8224; 4 March 2019</h2>
 
