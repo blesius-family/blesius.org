@@ -1,4 +1,8 @@
-# Dr. med. Cornelius Klaus Blesius
+---
+redirect_from: "/"
+---
+
+## Dr. med. Cornelius Klaus Blesius
 
 **&#10038; 29 November 1937 &ndash; &#8224; 4 March 2019**
 
