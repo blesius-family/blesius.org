@@ -1,4 +1,6 @@
-# Dr. med. Cornelius Klaus Blesius
+# Dr. med. Cornelius Klaus Blesius {style=text-align:center}
+
+## &#10038; 29 November 1937 &ndash; &#8224; 4 March 2019 {style=text-align:center}
 
 Dr. Cornelius (Nels) Klaus Blesius, 81, passed away on March 4, 2019. He was an intelligent, optimistic, big hearted man, who was loved and full of personality. He will be remembered as a caring husband, father, Opa, physician, and one of El Paso’s biggest fans.
 
