@@ -19,4 +19,4 @@ He was preceded in death by his parents, Nikolaus and Erica Blesius and his brot
  
 A celebration of his life will be held on Tuesday, March 26, 2019 at 10:00 a.m. at First Baptist Church in the Ford Chapel, 805 Montana Avenue, El Paso, TX 79902. Family and friends will be received immediately after the service at the parlor next to the chapel in First Baptist. In lieu of flowers, the family requests donations in honor of Cornelius Blesius to CHIA (Christian Hands In Action) at 6520 La Cadena, El Paso, Texas, 79912.
 
-Please share your memories of Dr. Blesius at <a href="mailto:remembering-dr-blesius@blesius.org">remembering-dr-ckb@blesius.org</a>.
+Please share your memories of Dr. Blesius at <a href="mailto:remembering-dr-blesius@blesius.org">remembering-dr-blesius@blesius.org</a>.
