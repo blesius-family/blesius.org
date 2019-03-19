@@ -5,7 +5,7 @@ redirect_from: "/"
 
 <p align="center"><img src="/ckb/ckb.jpg" style="width:100%;max-width:300px;" alt="Dr. C.K. Blesius, MD"></p>
 
-<h5 align="center">&#10038; 29 November 1937 &ndash; &#8224; 4 March 2019</h5>
+<h4 align="center">&#10038; 29 November 1937 &ndash; &#8224; 4 March 2019</h4>
 
 Please share your memories of Dr. Blesius at <a href="mailto:remembering-dr-blesius@blesius.org">remembering-dr-blesius@blesius.org</a>.
 
