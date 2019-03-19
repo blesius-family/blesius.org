@@ -1,11 +1,11 @@
 ---
 redirect_from: "/"
 ---
-## Dr. med. Cornelius Klaus Blesius
+<h2 align="center">Dr. med. Cornelius K. Blesius</h2>
 
-<img src="/ckb/ckb.jpg" style="width:100%;max-width:300px;display:block;margin:0 auto;" alt="Dr. C.K. Blesius, MD">
+<p align="center"><img src="/ckb/ckb.jpg" style="width:100%;max-width:300px;" alt="Dr. C.K. Blesius, MD"></p>
 
-#### &#10038; 29 November 1937 &ndash; &#8224; 4 March 2019
+<h5 align="center">&#10038; 29 November 1937 &ndash; &#8224; 4 March 2019</h5>
 
 Please share your memories of Dr. Blesius at <a href="mailto:remembering-dr-blesius@blesius.org">remembering-dr-blesius@blesius.org</a>.
 
