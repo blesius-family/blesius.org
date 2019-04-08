@@ -20,7 +20,5 @@ It was during his residency at Baylor that he met his wife of 48 years, Rita Fae
 In his free time, he enjoyed reading, playing classical and baroque music, piloting his own plane, attending bible study, and appreciating the light and beauty found in the sunsets of El Paso from the balcony of his own home.
 
 He was preceded in death by his parents, Nikolaus and Erica Blesius and his brother Wolf Ludwig Blesius. He is survived by his wife, Rita, his son Carl Blesius with wife Robin; his daughter Fae Sowders and her husband William; and his six wonderful grandchildren: Luke, Johann and Eden Blesius and Mia, Riley, and Quinn Sowders. He will be sorely missed by all his family and friends.
- 
-A celebration of his life will be held on Tuesday, March 26, 2019 at 10:00 a.m. at First Baptist Church in the Ford Chapel, 805 Montana Avenue, El Paso, TX 79902. Family and friends will be received immediately after the service at the parlor next to the chapel in First Baptist. In lieu of flowers, the family requests donations in honor of Cornelius Blesius to CHIA (Christian Hands in Action) at 6520 La Cadena, El Paso, Texas, 79912.
 
 Please share your memories of Dr. Blesius at <a href="mailto:remembering-dr-blesius@blesius.org">remembering-dr-blesius@blesius.org</a>.
