@@ -48,15 +48,15 @@ has cared for thousands of patients who sought out his careful and
 thorough diagnostic workups. He loved his patients and practicing
 medicine in El Paso until he retired at the age of 79.</p>
 
-<p>His life in the United States was always punctuated with the
-relationships he sustained and cultivated with friends and family on
-the Moselle, in the Rhine River valley, and elsewhere. That contact
-helped sustain him.</p>
-
 <p>In his free time, he enjoyed reading, playing classical and baroque
 music, piloting his own plane, attending bible study, and appreciating
 the light and beauty found in the sunsets of El Paso from the balcony
 of his own home.</p>
+
+<p>His life in the United States was always punctuated with the
+relationships he sustained with friends and family on the Moselle 
+River, in the Rhine River valley, and elsewhere. This contact helped
+sustain him.</p>
 
 <p>He was preceded in death by his parents, Nikolaus and Erica Blesius
 and his brother Wolf Ludwig Blesius. He is survived by his wife, Rita,
