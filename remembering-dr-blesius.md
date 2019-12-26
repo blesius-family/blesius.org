@@ -55,8 +55,8 @@ of his own home.</p>
 
 <p>His life in the United States was always punctuated with the
 relationships he sustained with friends and family on the Moselle 
-River, in the Rhine River valley, and elsewhere. This contact helped
-sustain him.</p>
+River, in the Rhine River valley, and elsewhere. This contact brought
+him joy.</p>
 
 <p>He was preceded in death by his parents, Nikolaus and Erica Blesius
 and his brother Wolf Ludwig Blesius. He is survived by his wife, Rita,
