@@ -4,11 +4,9 @@ images:
   - image_path: /ckb/00.jpg
     title: Das Geburt
   - image_path: /ckb/01.jpg
-    title: Kindheit 1
-  - image_path: /ckb/02.jpg
-    title: Kindheit 2
+    title: Das Kind
 ---
-<ul class="ckb-gallery">
+<ul class="gallery">
   {% for image in page.images %}
     <li><img src="{{ image.image_path }}" alt="{{ image.title}}"/></li>
   {% endfor %}
