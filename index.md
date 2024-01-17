@@ -5,8 +5,6 @@ images:
     title: Meep
 ---
 # hi.
-<ul class="gallery">
-  {% for image in page.images %}
-    <li><img src="{{ image.image_path }}" alt="{{ image.title}}"/></li>
-  {% endfor %}
-</ul>
+{% for image in page.images %}
+  <img src="{{ image.image_path }}" alt="{{ image.title}}"/></li>
+{% endfor %}
