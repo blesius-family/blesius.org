@@ -1,6 +1,3 @@
----
-redirect_from: "/"
----
 <div id="todesanzeige" style="padding:25px;border:4px solid black;">
 <h2 align="center">Dr. med. Cornelius K. Blesius</h2>
 
@@ -60,9 +57,8 @@ him joy.</p>
 
 <p>He was preceded in death by his parents, Nikolaus and Erica Blesius
 and his brother Wolf Ludwig Blesius. He is survived by his wife, Rita,
-his son Carl Blesius with wife Robin; his daughter Fae Sowders and her
-husband William; and his six wonderful grandchildren: Luke, Johann and
-Eden, Mia, Riley, and Quinn. He will be sorely missed by all his
+his son Carl with wife Robin; his daughter Fae and her
+husband William; and his seven wonderful grandchildren. He is missed by
 family and friends.</p>
 
 <p>Please share your memories: <a
